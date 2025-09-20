@@ -1,6 +1,7 @@
 # Fraud Analysis – Canadian Anti-Fraud Centre (2021–2025)
 
-This project explores ~329k fraud and cybercrime reports from the Canadian Anti-Fraud Centre (CAFC).
+This project explores ~329k fraud and cybercrime reports from the Canadian Anti-Fraud Centre (CAFC). The work includes exploratory data analysis, cleaning and imputation of missing values, descriptive statistics, segmentation of fraud patterns, and clustering using machine learning methods. The summary below only highlights key findings, while much deeper insights from exploratory analysis, clustering visualizations, and statistical testing are available in the complete notebook.
+
 
 ## Contents
 - `Canadian_CAFC_Fraud_Analysis.ipynb`  
