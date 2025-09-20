@@ -21,8 +21,6 @@ Source: Government of Canada Open Data Portal
 - Methods: EDA, missingness tests, imputation, clustering (KMeans, HDBSCAN, PCA, UMAP)  
 
 ## Approach
-This project explores ~329k fraud and cybercrime reports from the Canadian Anti-Fraud Centre (CAFC).
-
 **Dataset:** Canadian Anti-Fraud Centre (CAFC), ~329k reports (2021–2025)  
 **Goal:** Provide a stakeholder-friendly exploratory analysis of fraud and cybercrime reports, answering key descriptive questions with clear statistics and tables.
 
